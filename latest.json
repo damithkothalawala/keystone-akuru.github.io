@@ -3,8 +3,8 @@
   "version": "1.1.0",
   "downloadURL": "https://github.com/damithkothalawala/keystone-akuru.github.io/releases/download/v1.1.0/Keystone-Akuru-macOS.zip",
   "releaseURL": "https://github.com/damithkothalawala/keystone-akuru.github.io/releases/tag/v1.1.0",
-  "sha256": "c96b44642826d913c0daea47d10d17b2bb4982cfe13001b2217f3c3b9f8c61fc",
-  "byteCount": 3655150,
-  "publishedAt": "2026-10-02T18:48:39.614330+00:00",
+  "sha256": "562a510e095ebf4bc40453936776d23da3eeb4923f1aee08c12242fad3c252b5",
+  "byteCount": 3655110,
+  "publishedAt": "2026-10-02T18:51:26.264822+00:00",
   "minimumMacOS": "13.0"
 }
